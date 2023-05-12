@@ -12,9 +12,6 @@ My name is Ronny Vasquez,<br>I am a Frontend Developer and a student at the<br>T
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ronny-vasquez&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronny-vasquez&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ronny-vasquez&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
