@@ -1,4 +1,4 @@
-img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+img align="center" alt="bg" with="500" src="[https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
 <h3 align="center">Web Developer</h3>
@@ -20,6 +20,3 @@ img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronny-vasquez&show_icons=true&locale=en&layout=compact" alt="ronny-vasquez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronny-vasquez&show_icons=true&locale=en" alt="ronny-vasquez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-vasquez&" alt="ronny-vasquez" /></p>
