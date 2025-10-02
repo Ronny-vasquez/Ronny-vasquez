@@ -70,6 +70,7 @@ Committed to continuous learning and excellence in every project, from initial d
     </a>
 </p>
 
+<hr>
 <!-- GitHub Stats -->
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronny-vasquez&show_icons=true&locale=en&layout=compact" alt="ronny-vasquez" />
