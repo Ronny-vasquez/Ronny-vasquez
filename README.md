@@ -34,7 +34,6 @@ Committed to continuous learning and excellence in every project, from initial d
 </p>
 
 <!-- Frontend - Frameworks & Libraries -->
-<!-- Frameworks & Libraries -->
 <h4>Frameworks & Libraries</h4>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -66,12 +65,7 @@ Committed to continuous learning and excellence in every project, from initial d
 </p>
 
 <!-- Backend & Services -->
-<h4>Backend & Services</h4>
-<p align="left">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-    </a>
-</p>
+
 
 <!-- Tools -->
 <h4>Tools & Design</h4>
