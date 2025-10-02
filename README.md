@@ -20,18 +20,9 @@ Committed to continuous learning and excellence in every project, from initial d
 <!-- Frontend - Lenguajes Base -->
 <h4>Frontend Languages</h4>
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-    </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css," />
-</p>
+</a>
 </p>
 
 <!-- Frontend - Frameworks & Libraries -->
@@ -46,6 +37,8 @@ Committed to continuous learning and excellence in every project, from initial d
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" />
     </a>
+
+    
 </p>
 
 <!-- Styling -->
