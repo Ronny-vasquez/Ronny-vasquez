@@ -60,7 +60,7 @@ Committed to continuous learning and excellence in every project, from initial d
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
     </a>
     <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-        <img src="file:///C:/Users/ronny/Downloads/shadcnui.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" />
+        <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" />
     </a>
 </p>
 
