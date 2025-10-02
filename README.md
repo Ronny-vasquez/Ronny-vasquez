@@ -14,6 +14,8 @@ Committed to continuous learning and excellence in every project, from initial d
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ronny-vasquez?tab=repositories](https://github.com/Ronny-vasquez?tab=repositories)
 
+<img align="right" alt="bg" with="300" src="https://i.pinimg.com/originals/e1/1d/8a/e11d8a2fcee359b8533e02fbb2b1eb64.gif">
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,5 +77,3 @@ Committed to continuous learning and excellence in every project, from initial d
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronny-vasquez&show_icons=true&locale=en&layout=compact" alt="ronny-vasquez" />
 </p>
-
-
