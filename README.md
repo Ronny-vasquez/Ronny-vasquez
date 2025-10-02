@@ -48,6 +48,10 @@ Committed to continuous learning and excellence in every project, from initial d
     <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKuB3tbngboa05-YZ4n1m8zjhoL2L87Zl3PA&s" alt="Shadcn/ui" title="Shadcn/ui" width="46" height="46" />
     </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,mui,sass,shadcn" />
+  </a>
 </p>
 
 <!-- Backend & Services -->
