@@ -1,4 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
@@ -30,9 +29,9 @@ Committed to continuous learning and excellence in every project, from initial d
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
     </a>
-   <a href="https://skillicons.dev">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</p>
 </p>
 
 <!-- Frontend - Frameworks & Libraries -->
