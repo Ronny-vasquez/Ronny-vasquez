@@ -14,7 +14,7 @@ Committed to continuous learning and excellence in every project, from initial d
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ronny-vasquez?tab=repositories](https://github.com/Ronny-vasquez?tab=repositories)
 
-<img align="right" alt="bg" with="900" src="https://i.pinimg.com/originals/e1/1d/8a/e11d8a2fcee359b8533e02fbb2b1eb64.gif">
+<img align="right" alt="bg-aboutme" with="250" height="300" src="https://i.pinimg.com/originals/e1/1d/8a/e11d8a2fcee359b8533e02fbb2b1eb64.gif">
 
 <hr>
 
