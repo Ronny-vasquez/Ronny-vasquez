@@ -8,16 +8,22 @@ Committed to continuous learning and excellence in every project, from initial d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronny-vasquez&label=Profile%20views&color=0e75b6&style=flat" alt="ronny-vasquez" /> </p>
 
-- 🔭 I’m currently working on [SIGA](https://github.com/Ronny-vasquez/SIGA)
+<table>
+<tr>
+<td width="60%">
 
-- 🌱 I’m currently learning **Typescript, Nodejs and Express.**
-
+- 🔭 I'm currently working on [SIGA](https://github.com/Ronny-vasquez/SIGA)
+- 🌱 I'm currently learning **Typescript, Nodejs and Express.**
 - 👨‍💻 All of my projects are available at [https://github.com/Ronny-vasquez?tab=repositories](https://github.com/Ronny-vasquez?tab=repositories)
+
+</td>
 <td width="40%">
 
 <img align="right" alt="bg-aboutme" width="200" height="250" src="https://i.pinimg.com/originals/e1/1d/8a/e11d8a2fcee359b8533e02fbb2b1eb64.gif">
 
 </td>
+</tr>
+</table>
 
 <hr>
 
