@@ -28,17 +28,9 @@ Committed to continuous learning and excellence in every project, from initial d
 <!-- Frontend - Frameworks & Libraries -->
 <h4>Frameworks & Libraries</h4>
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-    </a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" />
-    </a>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" />
-    </a>
-
-    
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=reactjs,nextjs,astro" />
+  </a>
 </p>
 
 <!-- Styling -->
