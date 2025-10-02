@@ -29,7 +29,7 @@ Committed to continuous learning and excellence in every project, from initial d
 <h4>Frameworks & Libraries</h4>
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactjs,nextjs,astro" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro" />
   </a>
 </p>
 
