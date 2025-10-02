@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
 <h3 align="center">Web Developer</h3>
-<p align="center">Web developer with extensive experience building modern, scalable applications. Specialized in creating intuitive user interfaces.
+<p align="left">Web developer with extensive experience building modern, scalable applications. Specialized in creating intuitive user interfaces.
 Passionate about transforming ideas into functional products, combining attractive design with robust technical architecture. Focused on writing clean and maintainable code, always seeking innovative solutions that balance performance, usability, and scalability.
 Committed to continuous learning and excellence in every project, from initial design to final implementation.</p>
 
