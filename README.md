@@ -29,28 +29,15 @@ Committed to continuous learning and excellence in every project, from initial d
 <h4>Frameworks & Libraries</h4>
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts" />
   </a>
 </p>
 
 <!-- Styling -->
 <h4>Styling & UI</h4>
 <p align="left">
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
-    </a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
-    </a>
-    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKuB3tbngboa05-YZ4n1m8zjhoL2L87Zl3PA&s" alt="Shadcn/ui" title="Shadcn/ui" width="46" height="46" />
-    </a>
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,mui,sass,shadcn" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mui,sass," />
   </a>
 </p>
 
@@ -69,6 +56,9 @@ Committed to continuous learning and excellence in every project, from initial d
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,notion" />
+  </a>
 </p>
 <hr>
 <!-- GitHub Stats -->
