@@ -2,10 +2,9 @@
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
-<p align="center" style="font-size: 1.2em;">About me</p>
-<p align="left">FrontEnd Web developer with extensive experience building modern, scalable applications. Specialized in creating intuitive user interfaces.
-Passionate about transforming ideas into functional products, combining attractive design with robust technical architecture. Focused on writing clean and maintainable code, always seeking innovative solutions that balance performance, usability, and scalability.
-Committed to continuous learning and excellence in every project, from initial design to final implementation.</p>
+<img align="left" alt="bg-about" with="50" height="50" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJxbmt0dzJpMTE0ank1cjJnN3VwbGRlZ3kyY2hrenptbHJ0NWs5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif">
+<p align="center" style="font-size: 1.2em;">About me</p></img>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronny-vasquez&label=Profile%20views&color=0e75b6&style=flat" alt="ronny-vasquez" /> </p>
 
