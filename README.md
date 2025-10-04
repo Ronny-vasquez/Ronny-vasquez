@@ -2,7 +2,7 @@
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
-<h2 class="heading-element" dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="50px" style="visibility: visible; max-width: 100%;"></picture></themed-picture> About me</h2>
+<h2 class="heading-element" dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6bnR6bjRjdGFsaWNjY2ZyYWo1b2Z2ZTF5cjRsc2VlcWd2d2k4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="50px" style="visibility: visible; max-width: 100%;"></picture></themed-picture> About me</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronny-vasquez&label=Profile%20views&color=0e75b6&style=flat" alt="ronny-vasquez" /> </p>
