@@ -54,5 +54,5 @@ Committed to continuous learning and excellence in every project, from initial d
 <hr>
 <!-- GitHub Stats -->
 <p>
-    <img align="left" style="background-color: red;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronny-vasquez&show_icons=true&locale=en&layout=compact" alt="ronny-vasquez" />
+    <img align="left" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronny-vasquez&show_icons=true&locale=en&layout=compact" alt="ronny-vasquez" />
 </p>
