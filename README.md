@@ -2,14 +2,10 @@
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <div>
-        <img alt="Skills Illustration" width="250" src="URL_DE_LA_IMAGEN_DEL_PORTATIL">
-    </div>
+<div style="width: 100%;">
+    <h2 style="float: right; font-size: 2em; margin-top: 50px;">About me</h2>
 
-    <div style="padding-top: 50px;">
-        <h2 style="font-size: 2em; margin: 0;">About me</h2>
-        </div>
+    <img alt="Skills Illustration" width="250" src="URL_DE_LA_IMAGEN_DEL_PORTATIL">
 </div>
 
 
