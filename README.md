@@ -2,7 +2,7 @@
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
-<img align="left" alt="bg-about" with="50" height="50" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJxbmt0dzJpMTE0ank1cjJnN3VwbGRlZ3kyY2hrenptbHJ0NWs5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif">
+<img align="left" alt="bg-about" with="100" height="100" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJxbmt0dzJpMTE0ank1cjJnN3VwbGRlZ3kyY2hrenptbHJ0NWs5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif">
 <p align="left" style="font-size: 1.2em;">About me</p></img>
 
 
