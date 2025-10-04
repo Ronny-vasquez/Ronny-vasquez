@@ -2,7 +2,7 @@
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
-<p align="center" style="font-size: 30px;">About me</p>
+<p align="center" style="font-size: 1.2em;">About me</p>
 <p align="left">FrontEnd Web developer with extensive experience building modern, scalable applications. Specialized in creating intuitive user interfaces.
 Passionate about transforming ideas into functional products, combining attractive design with robust technical architecture. Focused on writing clean and maintainable code, always seeking innovative solutions that balance performance, usability, and scalability.
 Committed to continuous learning and excellence in every project, from initial design to final implementation.</p>
