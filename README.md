@@ -2,8 +2,10 @@
 <img align="center" alt="bg" with="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
-<img align="left" alt="bg-about" with="100" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6bnR6bjRjdGFsaWNjY2ZyYWo1b2Z2ZTF5cjRsc2VlcWd2d2k4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif">
-<p align="left" style="font-size: 1.2em;">About me</p></img>
+<div style="display: flex; align-items: center;">
+    <img alt="bg-about" width="100" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6bnR6bjRjdGFsaWNjY2ZyYWo1b2Z2ZTF5cjRsc2VlcWd2d2k4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" style="margin-right: 15px;">
+    <p style="font-size: 1.2em; margin: 0;">About me</p>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronny-vasquez&label=Profile%20views&color=0e75b6&style=flat" alt="ronny-vasquez" /> </p>
