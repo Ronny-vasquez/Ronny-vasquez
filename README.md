@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
 <h2 class="heading-element" dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6bnR6bjRjdGFsaWNjY2ZyYWo1b2Z2ZTF5cjRsc2VlcWd2d2k4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="70px" style="visibility: visible; max-width: 100%;"></picture></themed-picture> About me</h2>
 
+<p align="left">Web developer with extensive experience building modern, scalable applications. Specialized in creating intuitive user interfaces.
+Passionate about transforming ideas into functional products, combining attractive design with robust technical architecture. Focused on writing clean and maintainable code, always seeking innovative solutions that balance performance, usability, and scalability.
+Committed to continuous learning and excellence in every project, from initial design to final implementation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronny-vasquez&label=Profile%20views&color=0e75b6&style=flat" alt="ronny-vasquez" /> </p>
 
