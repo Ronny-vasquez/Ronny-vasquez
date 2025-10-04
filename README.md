@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
 <img align="left" alt="bg-about" with="50" height="50" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJxbmt0dzJpMTE0ank1cjJnN3VwbGRlZ3kyY2hrenptbHJ0NWs5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif">
-<p align="center" style="font-size: 1.2em;">About me</p></img>
+<p align="left" style="font-size: 1.2em;">About me</p></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronny-vasquez&label=Profile%20views&color=0e75b6&style=flat" alt="ronny-vasquez" /> </p>
