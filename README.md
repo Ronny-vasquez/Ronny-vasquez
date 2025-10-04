@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ronny Vásquez</h1>
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6bnR6bjRjdGFsaWNjY2ZyYWo1b2Z2ZTF5cjRsc2VlcWd2d2k4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" 
-       alt="Skills Illustration" width="200" style="margin-right: 20px;" />About me
+       alt="Skills Illustration" width="100" style="margin-right: 20px;" />About me
 </p>
 
 
